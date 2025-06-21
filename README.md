@@ -55,4 +55,4 @@ A seguir estão todos os endpoints disponíveis na aplicação.
 
 * **Persistência de Dados:** Os dados são armazenados em um array na memória. Isso significa que **todos os registros serão perdidos** quando o servidor for reiniciado.
 * **Segurança:** As senhas são criptografadas usando a função `password_hash()` do PHP, seguindo as práticas básicas de segurança.
-* **Formato das Respostas:** Todas as respostas da API são retornadas no formato **J
+* **Formato das Respostas:** Todas as respostas da API são retornadas no formato **JSON**
